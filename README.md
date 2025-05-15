@@ -48,4 +48,5 @@
   </a>
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JANGHYUNK&layout=Demo&theme=Dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JANGHYUNK&layout=compact&theme=radical)
+
