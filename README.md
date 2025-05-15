@@ -61,5 +61,5 @@
   </a>
   <a href="mailto:janghyun0401@naver.com">
     <img
-      src="https://img.shields.io/badge/janghyun0401@naver.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
+      src="https://img.shields.io/badge/janghyun0401@naver.com-D14836?style=for-the-badge&logo=naver&logoColor=white"/>&nbsp
   </a>
