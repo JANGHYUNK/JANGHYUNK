@@ -46,3 +46,6 @@
     <img
       src="https://img.shields.io/badge/janghyun0401@naver.com-03C75A?style=for-the-badge&logo=naver&logoColor=white"/>&nbsp
   </a>
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JANGHYUNK&layout=Demo&theme=Dark)
