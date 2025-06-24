@@ -29,6 +29,10 @@
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> <br> 
     <div align= "center"> <a href=https://velog.io/@janghyun0401/posts> <img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=Velog&logoColor=white&link=https://velog.io/@janghyun0401/posts"> </a>
          <a href=https://www.notion.so/99cf7e82fa2a471f862c4275249a6ce8> <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white&link=https://www.notion.so/99cf7e82fa2a471f862c4275249a6ce8"> </a>
+         <a href="mailto:janghyun0401@naver.com">
+    <img
+      src="https://img.shields.io/badge/janghyun0401@naver.com-03C75A?style=for-the-badge&logo=naver&logoColor=white"/>&nbsp
+  </a>
           </div>  <br> 
     <div align= "center">  </div> 
     </div>
@@ -37,4 +41,18 @@
          /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JANGHYUNK&layout=compact&bg_color=60,d357fe,fff995&title_color=000000&text_color=000000"
            /> </div> 
     </div>
+
+
+
+
+
+
+
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JANGHYUNK&layout=compact&theme=radical)
+
+
+
+---
     
