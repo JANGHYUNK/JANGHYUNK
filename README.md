@@ -31,7 +31,7 @@
          <a href=https://www.notion.so/99cf7e82fa2a471f862c4275249a6ce8> <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white&link=https://www.notion.so/99cf7e82fa2a471f862c4275249a6ce8"> </a>
          <a href="mailto:janghyun0401@naver.com">
     <img
-      src="https://img.shields.io/badge/janghyun0401@naver.com-03C75A?style=for-the-badge&logo=naver&logoColor=white"/>&nbsp
+      src="https://img.shields.io/badge/janghyun0401@naver.com-03C75A?style&flat&logo=naver&logoColor=white"/>&nbsp
   </a>
           </div>  <br> 
     <div align= "center">  </div> 
@@ -46,13 +46,4 @@
 
 
 
-
-
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JANGHYUNK&layout=compact&theme=radical)
-
-
-
----
     
