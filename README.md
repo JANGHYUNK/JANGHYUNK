@@ -41,7 +41,6 @@
          /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JANGHYUNK&layout=compact&bg_color=60,d357fe,fff995&title_color=000000&text_color=000000"
            /> </div> 
         [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=peter&langs_count=10&layout=compact)]()
-출처: https://inner-game.tistory.com/636 [Problem Solving with Algorithms:티스토리]
     </div>
 
 
